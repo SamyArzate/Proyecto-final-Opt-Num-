@@ -1,0 +1,25 @@
+Code for Learning to Optimize
+
+This is a Python re-implementation of the method described in our paper, which can be found at https://arxiv.org/abs/1606.01885
+
+It is based on the Guided Policy Search implementation (https://github.com/cbfinn/gps). 
+
+Copyright (C) 2017    Ke Li, Jitendra Malik
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+===========================================================================================================================================
+
+Requires TensorFlow v0.12
+Run compile_proto.sh first before running run_lto.sh
